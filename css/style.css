@@ -26,7 +26,7 @@
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/bg.webp);
+  background-image: url(../img/226947853_1001602610613097_7303643128653571251_n.jpg);
   background-size: cover;
   background-position: 50%;
   -webkit-filter: blur(4px);
@@ -87,5 +87,5 @@ header h4 {
 }
 
 .swal2-backdrop-show{
-  background-size: 200px 100px !important;
+  background-size: 2048px 1536px !important;
 }
